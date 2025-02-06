@@ -1,0 +1,88 @@
+One of the movies about AI off the top of my head is iRobot, the one with Will Smith. It's been a while since I've seen it so I don't remember the exact plot of it, but I remember it was about a rogue AI, and there was a memorable conversation between one of the robots and Will Smith. In many ways I believe our current AI technologies already surpass that of the robots in this movie.
+1) The Matrix Series. The Matrix takes place in a dystopian world where humans are trapped in a simulation made by crazily advanced AI systems. They use Natural Language Processing to talk to humans.
+
+2) Blade. Blade is also set in a dystopian future in which AI called "replicants" are created to do boring work. However, as the AI became more advanced, they gained feelings that caused them to fight for the same rights as humans. They also use NLP to communicate with humans.
+When I was young, I read this series called the Higher Institute of Villainous Education (HIVE), where an artificial intelligence became sentient and attacked its creators. Kind of like Terminator, but in book form, and for children.
+I think the movie Big Hero 6 is relevant to AI because one of the characters, Baymax, uses AI to heal patients. 
+Start up (K-drama): main character is a software engineer that makes a computer vision app that lets blind people ask a question like "count the money in front of me" or "what is the object in front of me", and the app will tell you what it is
+
+Imitation Game: Alan Turing makes a computer that does a search on the decryption code
+for the enigma machine
+I think Iron Man is related to AI and NLP because the Iron Man suit (Jarvis) can understand human language and is an AI.
+I think about HBO Silicon Valley specifically the last season where the main characters work on their product using an AI (black-box neural net).
+I think the movie "Resident Evil" is a movie that has something to do with AI. In the movie the Red Queen (AI) is shown as a supercomputer in the movie.
+I think a movie that is relevant may be something like Wall-E. I think this movie is relevant because Wall-E develops feelings similar to a human. He feels lonely and when he meets Eve he falls in love. This movie shows the power of AI.
+The Artificial Intelligence movie. It's about a robot boy with his own awareness and the story between  a family and him.
+I can't think of a specific game, but games that use speech recognition are relevant to NLP because it would require understanding natural language to function.
+The wandering earth 2. It is a renovation movie thinking about the potential problem while we developing AI.
+Westworld, Deus Ex, X-files, 2001 a space Odyssey.
+game: son of the forest.
+
+the AI control the characters to do the jobs that assigned by the player.
+A robot like Karen from Spongebob is relevant to NLP and AI because she is not human and still has feelings and thoughts as if she were human.
+Bicentennial Man was my favorite movie about AI, because it showed how a robot developed human like traits and wanted to be a part of human society.
+I think the movie Ex Machina is relevant to NLP and AI because it involves the creation of a sentient artificial intelligence that uses language to fool humans in a "turing test".
+In Marvel, there is a character called Vision. He is a highly advanced AI that acts like a regular human that was developed by Iron Man. 
+
+In Iron Man, the suit itself also has a built in AI assistant, Jarvis. Through NLP and AI, this assistant is able to understand human voice commands and execute certain actions based on them.
+AI is a common theme seen in many movies. Whether it be centered around the plot or not, there are also times when AI makes an appearance in movies by just having an item or technology featured in the movie that uses AI technologies. To name a movie off the top of my head, I can think of a few Marvel movies that feature AI technologies. 
+Iron Man's Jarvis and Friday, all belong to high-performance artificial intelligence.
+Black Mirror Season 4 and 5 centers around the future of AI and its effects on our daily lives/human race in general. The show centers around integrating AI in human body to expand and save memories, enhance intelligence and play realistic video games where we're fully emerged inside of the game with our senses. It's a bit on the dark perspective side kind of a show but I think it's a fascinating show and everyone should give it a try!
+Some examples are the game Detroit: Become Human and the movie I, Robot.
+Ex Machina, Chappie
+I don't watch or play many games so I don't know. Maybe Iron Man because of Jarvis?
+A movie that I think is relevant to AI is the film, Ex Machina, because the movie is centered around the Turing Test and some AI robot trying to pass it. Though the Turing Test is more subjective and less scientific as a test, an AI passing the Turing Test would be convincing enough as human which implies at least human levels of intelligence. 
+There is a game that I'm a very big fan of called Cyanotype Daydream, where one of the main characters is an AI who borders on developing human emotions. I'm interested in seeing if there is a real role of NLP that I could tie to this character's development and whether our future will be one not dissimilar to the world of Cyanotype Daydream.
+The movie I, Robot because it is about AI fighting against humanity.
+matrix (replicating human consciousness to create artificial intelligence), ex machina (also centered around a really intelligent ai)
+In the movies "The Wandering Earth 2". There is a Al 550, I think it is a NLP and AI can contorl all the AI roblet  in the battle at the same time. And it contol all the engines in Moon that make the engines have the engough speed to leave Earth.
+There are a lot of AI movies from walle to others. Since a lot of these AIs can understand and respond, I believe that uses NLP.
+
+ 
+The Matrix, of course. Ex Machina is another interesting one, largely showing themes of NLP
+I think 2 of the most relevant are "I, Robot" and "Eagle Eye" which although not necessarily realistic, show the consequences of increased advancement in AI. 
+Iron man is a relevant example to AI and NLP. Tony Stark created J.A.R.V.I.S, Just A Rather Very Intelligent System, as essentially a personal assistant. 
+Start up (K-drama): main character is a software engineer that makes a computer vision app that lets blind people ask a question like "count the money in front of me" or "what is the object in front of me", and the app will tell you what it is
+
+Imitation Game: Alan Turing makes a computer that does a search on the decryption code
+for the enigma machine
+The terminator could be relevant to NLP. The terminator has to communicate with humans using natural language. Therefore, for the purposes of communication, the inputs and outputs of the terminator are encoded in spoken natural languages, like english in the movies. 
+Any time someone speaks to their AI to control it, there is NLP involved. Issuing verbal commands such as, “run simulation”, are an example of this. 
+One movie that I feel relates to AI is blade-runner, since the setting of the movie heavily relies on beings called reploids, which are essentially AGI.
+In 2001 A Space Odyssey the ship's AI is able to sense the passengers' intent and work against them.
+I wasn't too sure but after discussing with some classmates we came up with Chappie.
+I think that Iron Man is pretty relevant to NLA ‘and AI as it is focused around a lot of futuristic tech at the time it was released and slowly becoming a reality. 
+There is a game called Detroit: Become Human that seems to have relevance to NLP and AI because the game involves a setting where humanoid androids are everyday tools for humans. In the game, the androids' appearances and their voices are quite identical to humans in the game. The only difference that many can make it out is the uniforms and the blue circle on their heads.
+Deus Ex Machina as I am assuming that the AI robots used NLP when processing voice to text in order to process the input data and then again when formulating the natural to speak back to the people. 
+I am not sure. 
+Ready Player one because it shows a world where anyone can become anything they want through the use of technology. It is more of an AI/AR virtual setting where one puts on a headset and they are transported to a universe where they can be their own real-life character.
+
+ 
+iRobot, i think some episodes of Star Trek also ask the question of what advanced AI may be like. Bicentennial Man, the universe of Star Wars (advanced AI everywhere). I think in the Warhammer 40k lore, AI has been banned by some factions (this is actually a concept found in a couple other unrelated series).
+The HER movie, and Joaquin Pheonix falling in love with an AI model.
+Nowadays, I feel that most games already use AI for NPC interactions, and movies or shows could potentially use AI generated scripts or dialogues. 
+Ex-machina and Free Guy are examples of movies relevant to NLP and AI. These have aspects of artificial intelligence understanding the working of the world.
+The movie her is one of the movies relevant to AI and NLP, specifically AGI.
+
+One more example would be Black Mirror which is a series on Netflix that explores ideas of AI in the future.
+I think the way in which the robots are able to speak is related to NLP
+A great example within a movie that is centered around NLP/AI is Jarvis from Iron Man (Marvel). Jarvis is an AI assistant that helps Tony Stark throughout his life to make things easier through speech and commands.
+Many animated movies have an “AI villain” where the antagonist seems almost unbeatable because it is smarter than the other characters.
+The Imitation Game is a movie that shows how Alan Turing had helped crack the Enigma code that the Germans were using to send messages over an unsecure communication line. I think it is relevant to AI, because it shows him trying to predict the most likely letters that were to emerge using the provided encrypted message.
+Any movie that involves a robot a program talking and interacting with humans is relevant to NLP and AI. The best example I can think of is "her".
+A movie I think could be relevant is BIG Hero 6 because the robot I think is an AI-based robot that makes decisions based on whats happening in his surroundings and will act accordingly to tho
+Movies, shows, and games that are relevant to NLP and AI could be a show called Person of Interest which features an AI that is able to predict crime before it happens. Westworld is another show that features the use of AI and NLP if the robots can create and interpret speech.
+The movie Avengers: Age of Ultron is relevant to NLP and AI as Ultron, the main villain in the movie, creates multiple versions of his AI self to fight against humanity and the Avengers.
+robocop, thats all i can think of
+Movie: Iron Man
+
+Game: Cyberpunk 2077, TitanFall2
+
+They all have a working AI even a robot.
+Looking forward from the past, most science fiction is relevant in this context. Looking from the present forward, AI can be trained on all media using NLP, and so all media is relevant. 
+Games: Nier: Automata - War between human made androids and intelligent machines from another planet. 
+Recently, I have watched this movie meg3n which is about humanoid advanced robot which have feelings and can think like a human and improve its ability with machine learning. It turns out against the person who created it by the end. I think that movie covers all the aspects nlp, ai and ml since they have incorporated all to create that robot. 
+I think that NLP could have a place in modifying movie scripts or generating case specific text in roleplaying games. For instance, in open world roleplaying games the developers can not prepare for every path the character might take, but generating new text or speech on the fly using AI could create a very immersive experience.
+I think of HBO Silicon Valley, where in season 6 their main product centered around an AI (black-box neural net) 
+
+ 
